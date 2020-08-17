@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 
 # Simple Reading List React application
 
-Application was made while studying Net Ninja tutorials on React Hooks & Context.
+Application was made while studying Net Ninja tutorials on React Hooks & Context.<br />
 I followed the tutorial explicitly and this app is the result of that
 
 #### Additional Dependencies include the following:
